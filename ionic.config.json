@@ -1,0 +1,7 @@
+{
+  "name": "vmg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
